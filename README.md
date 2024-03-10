@@ -6,6 +6,7 @@ The purpose of this repository is to create a program to enable selecting yoga p
 # Data acquisition:
 Yoga poses: 107 poses from [the Kaggle dataset](https://www.kaggle.com/datasets/arrowe/yoga-poses-dataset-107).
 > Note: There are actually more than 107 Yoga poses in the wild. So the list grew longer as I discovered more Yoga poses.<br/>
+
 Anotomical & Energetic benefits: acquired through ChatGPT.
 > Note: Because of the hallucinating property of ChatGPT (LLM in general), some benefits are incorrect. Thus, additional judgement from a certified Yoga instructor is needed to confirm the benefits.
 
