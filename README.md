@@ -12,4 +12,6 @@ Anotomical & Energetic benefits: acquired through ChatGPT.
 # Disclaimer:
 1. Some info might be incorrect because of the hallucinating property of ChatGPT (LLM in general).
 2. Yoga practice requires good judgement and guidance.
+
+
 Thus, additional guidance from a certified Yoga instructor should be sought before performing the Yoga practice.
